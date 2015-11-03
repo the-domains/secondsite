@@ -4,8 +4,15 @@
         <description><![CDATA[SecondSite]]></description>
         <link>https://thegrid.ai/secondsite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Nov 2015 12:47:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2015 12:48:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/secondsite/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/secondsite/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">826876f3-124c-4ae8-a675-32161a530d48</guid>
+            <pubDate>Tue, 03 Nov 2015 12:48:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Some text test]]></title>
             <description><![CDATA[<h1>Some text test</h1>]]></description>
