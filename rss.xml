@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SecondSite]]></title>
         <description><![CDATA[SecondSite]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/secondsite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Nov 2015 12:47:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 Nov 2015 12:47:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/secondsite/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Some text test]]></title>
             <description><![CDATA[<h1>Some text test</h1>]]></description>
-            <link>undefinedsome-text-test/index.html</link>
+            <link>https://thegrid.ai/secondsite/some-text-test/index.html</link>
             <guid isPermaLink="false">d66a09d6-5e7e-496d-bae8-5540c0ad3c47</guid>
-            <pubDate>Tue, 03 Nov 2015 12:46:13 GMT</pubDate>
+            <pubDate>Tue, 03 Nov 2015 12:46:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
