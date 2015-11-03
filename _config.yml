@@ -1,7 +1,7 @@
 name: SecondSite
 favicon: null
 layout_spectrum: 0.8937704539857805
-typography_spectrum: 0.1470549099612981
+typography_spectrum: 0.59987
 cta:
   domain: null
   bucket: null
@@ -15,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#c3c3c3'
+    - '#ababab'
+    - '#242424'
+    - '#6f6f6f'
+    - '#3e3e3e'
   brandStrength: 0.5776166475843638
   lightness: 0.9300407636910677
   saturation: 0.9581360097508878
