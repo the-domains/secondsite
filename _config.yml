@@ -27,14 +27,14 @@ cta:
   bucket: null
   domain: null
 color:
-  brandStrength: 0.6652614
+  brandStrength: 0.4915683
   lightness: 0.9300407636910677
   saturation: 0.9581360097508878
   rhythmicContrast: 0.5104877494741231
   brandColors:
-    - '#030D03'
-    - '#E0FABD'
-    - '#1F3A2E'
-    - '#9BC4A2'
-    - '#78A26E'
+    - '#657899'
+    - '#4B5B77'
+    - '#D7D8E0'
+    - '#907977'
+    - '#01010D'
 typography_spectrum: 0.59987
