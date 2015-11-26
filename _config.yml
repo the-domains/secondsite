@@ -1,28 +1,40 @@
-name: SecondSite
-favicon: null
 layout_spectrum: 0.57159
-typography_spectrum: 0.59987
-cta:
-  domain: null
-  bucket: null
-  version: null
+favicon: null
+name: SecondSite
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
-  brandColors:
-    - '#c3c3c3'
-    - '#ababab'
-    - '#242424'
-    - '#6f6f6f'
-    - '#3e3e3e'
-  brandStrength: 0.5776166475843638
+  brandStrength: 0.6652614
   lightness: 0.9300407636910677
   saturation: 0.9581360097508878
   rhythmicContrast: 0.5104877494741231
-purpose: []
+  brandColors:
+    - '#030D03'
+    - '#E0FABD'
+    - '#1F3A2E'
+    - '#9BC4A2'
+    - '#78A26E'
+typography_spectrum: 0.59987
